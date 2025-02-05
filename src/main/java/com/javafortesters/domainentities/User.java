@@ -17,5 +17,8 @@ public class User {
 	public String getPassword() {
 		return password;
 	}
+	public void PrintnameofVaibhav() {
+		System.out.println("vaibhav");
+	}
 
 }
